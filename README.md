@@ -1,6 +1,6 @@
-** Airline Data Analysis Project**
+**Airline Data Analysis Project**
 
-** Project Overview**
+**Project Overview**
 This project analyzes airline operational and revenue data using Microsoft Excel. The goal is to clean the dataset, perform statistical analysis, and create visual dashboards to identify insights about flight performance and revenue.
 
 **Tools Used**
@@ -9,7 +9,7 @@ This project analyzes airline operational and revenue data using Microsoft Excel
 - Charts and Visualizations
 - Data Cleaning Techniques
 
-** Project Steps**
+**Project Steps**
 1. Data Cleaning
 2. Statistical Analysis
 3. Data Visualization
@@ -19,7 +19,7 @@ This project analyzes airline operational and revenue data using Microsoft Excel
 **Files in this Repository**
 Explanation of the above files
 
-**PRESENTATION OF INSIGHTS **
+**PRESENTATION OF INSIGHTS**
 This file contains the beautiful insights that we found during the course of the analysis and visualisations, it also contains the recommendations based on these insights. It also contains limitations of the analysis.
 
 **DIRTY DATA AND TASKS TO DO;**
